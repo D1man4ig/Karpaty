@@ -29,7 +29,7 @@
 
 .hi__row {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .hi__body {
